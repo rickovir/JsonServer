@@ -1,12 +1,12 @@
 {
-  "menus":[
-    {"id":1,"name":"Videos"},
-    {"id":2,"name":"People"},
-    {"id":3,"name":"Documents"},
-    {"id":4,"name":"Events"},
-    {"id":5,"name":"Communities"},
-    {"id":6,"name":"Favourites"},
-    {"id":7,"name":"Channels"}
+  "channels":[
+    {"id":1,"name":"Google", "isHeadline":false},
+    {"id":2,"name":"Youtube", "isHeadline":false},
+    {"id":3,"name":"Yahoo", "isHeadline":false},
+    {"id":4,"name":"Bing", "isHeadline":false},
+    {"id":5,"name":"Github", "isHeadline":false},
+    {"id":6,"name":"Stackoverflow", "isHeadline":false},
+    {"id":7,"name":"Amazon", "isHeadline":true}
   ],
   "videos":[
     {
@@ -50,7 +50,7 @@
       "isHeadline":true
     }
   ],
-  "activity":[
+  "activities":[
     {
       "id":1,
       "name":"Rondalo",
@@ -92,6 +92,80 @@
       "activity":"Commented",
       "description":"Semangat bang !",
       "time":"1 hour ago"
+    }
+  ],
+  "peoples":[
+    {
+      "id":1,
+      "name":"John Doeloe",
+      "activity":"Ball player",
+      "isHeadline":true,
+      "url":"https://cdn.stocksnap.io/img-thumbs/960w/face-mask_EEW7DRGW6Y.jpg"
+    },
+    {
+      "id":2,
+      "name":"Yoman",
+      "activity":"Ball player",
+      "isHeadline":false,
+      "url":"https://cdn.stocksnap.io/img-thumbs/960w/business-man_XTVALHTBUK.jpg"
+    },
+    {
+      "id":3,
+      "name":"George",
+      "activity":"Ball player",
+      "isHeadline":false,
+      "url":"https://cdn.stocksnap.io/img-thumbs/960w/business-man_0MRSBYLPNM.jpg"
+    },
+    {
+      "id":4,
+      "name":"Mase Mase",
+      "activity":"Ball player",
+      "isHeadline":false,
+      "url":"https://cdn.stocksnap.io/img-thumbs/960w/people-travel_XLKMFYFEW2.jpg"
+    },
+    {
+      "id":5,
+      "name":"The Bocils",
+      "activity":"Ball player",
+      "isHeadline":false,
+      "url":"https://cdn.stocksnap.io/img-thumbs/960w/kids-playing_ROEU3K6MUS.jpg"
+    }
+  ],
+  "documents":[
+    {
+      "id":1,
+      "name":"Mobile UI UX Tutorial",
+      "author":"John Kane",
+      "isHeadline":true,
+      "url":"https://cdn.dribbble.com/users/2045817/screenshots/14297375/media/8cc9c876c2624e526db9436d2508594a.jpg?compress=1&resize=400x300"
+    },
+    {
+      "id":2,
+      "name":"Smart City",
+      "author":"Jone",
+      "isHeadline":false,
+      "url":"https://img.jakpost.net/c/2019/01/14/2019_01_14_62897_1547432706._large.jpg"
+    },
+    {
+      "id":3,
+      "name":"A Guide to Component Driven Development (CDD)",
+      "author":"Admin",
+      "isHeadline":false,
+      "url":"https://miro.medium.com/max/1400/1*tFZbsqjuvsP85JXce3NWMQ.png"
+    },
+    {
+      "id":4,
+      "name":"Github Tutorial",
+      "author":"Admin",
+      "isHeadline":false,
+      "url":"https://storage.googleapis.com/kotakode-prod-public/images/07ef1653-fe14-44ae-93da-fa47553f89fd-6efb9bc5d143-article-190612-github-body-text.jpg"
+    },
+    {
+      "id":5,
+      "name":"Angular Tutorial",
+      "author":"Admin",
+      "isHeadline":false,
+      "url":"https://www.hostinger.co.id/tutorial/wp-content/uploads/sites/11/2020/09/beranda-angularjs.jpg"
     }
   ]
 }
