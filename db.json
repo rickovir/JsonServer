@@ -7,5 +7,91 @@
     {"id":5,"name":"Communities"},
     {"id":6,"name":"Favourites"},
     {"id":7,"name":"Channels"}
+  ],
+  "videos":[
+    {
+      "id":1,
+      "name":"Mendung Tanpo Udan",
+      "url":"https://www.youtube.com/watch?v=jeccjxIgBJ0",
+      "author":"admin",
+      "views":950399,
+      "isHeadline":false
+    },
+    {
+      "id":2,
+      "name":"Apa Itu Stackoverflow",
+      "url":"https://www.youtube.com/watch?v=q1g2IUE4fa4",
+      "views":150300,
+      "author":"admin",
+      "isHeadline":false
+    },
+    {
+      "id":3,
+      "name":"Luncurkan Maha Karya Anda Dengan Berani Dan Indah",
+      "url":"https://www.youtube.com/watch?v=2b905G4QiIk",
+      "views":34462,
+      "author":"admin",
+      "isHeadline":false
+    },
+    {
+      "id":4,
+      "name":"Panen Ikan Jaguar Gratis",
+      "url":"https://www.youtube.com/watch?v=W7PuwkT6IB0",
+      "views":550755,
+      "author":"admin",
+      "isHeadline":false
+    },
+    {
+      "id":5,
+      "name":"Ronaldo strikes as United hit Newcastle for four",
+      "url":"https://www.youtube.com/watch?v=Ahnby2vUlxM",
+      "author":"Em Yu",
+      "views":11987092,
+      "isHeadline":true
+    }
+  ],
+  "activity":[
+    {
+      "id":1,
+      "name":"Rondalo",
+      "activity":"Commented",
+      "description":"Mantap bos",
+      "time":"20 minute ago"
+    },
+    {
+      "id":2,
+      "name":"Rondalo",
+      "activity":"Like your post",
+      "description":"",
+      "time":"10 minute ago"
+    },
+    {
+      "id":3,
+      "name":"Salah",
+      "activity":"Commented",
+      "description":"Gak gitu maksudnya bro",
+      "time":"20 minute ago"
+    },
+    {
+      "id":4,
+      "name":"Salah",
+      "activity":"Like your post",
+      "description":"",
+      "time":"20 minute ago"
+    },
+    {
+      "id":5,
+      "name":"Kokom",
+      "activity":"Commented",
+      "description":"Jago banget ",
+      "time":"20 minute ago"
+    },
+    {
+      "id":6,
+      "name":"Andre",
+      "activity":"Commented",
+      "description":"Semangat bang !",
+      "time":"1 hour ago"
+    }
   ]
 }
