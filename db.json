@@ -12,7 +12,7 @@
     {
       "id":1,
       "name":"Mendung Tanpo Udan",
-      "url":"https://www.youtube.com/watch?v=jeccjxIgBJ0",
+      "url":"https://www.youtube.com/embed/jeccjxIgBJ0",
       "author":"admin",
       "views":950399,
       "isHeadline":false
@@ -20,7 +20,7 @@
     {
       "id":2,
       "name":"Apa Itu Stackoverflow",
-      "url":"https://www.youtube.com/watch?v=q1g2IUE4fa4",
+      "url":"https://www.youtube.com/embed/q1g2IUE4fa4",
       "views":150300,
       "author":"admin",
       "isHeadline":false
@@ -28,7 +28,7 @@
     {
       "id":3,
       "name":"Luncurkan Maha Karya Anda Dengan Berani Dan Indah",
-      "url":"https://www.youtube.com/watch?v=2b905G4QiIk",
+      "url":"https://www.youtube.com/embed/2b905G4QiIk",
       "views":34462,
       "author":"admin",
       "isHeadline":false
@@ -36,7 +36,7 @@
     {
       "id":4,
       "name":"Panen Ikan Jaguar Gratis",
-      "url":"https://www.youtube.com/watch?v=W7PuwkT6IB0",
+      "url":"https://www.youtube.com/embed/W7PuwkT6IB0",
       "views":550755,
       "author":"admin",
       "isHeadline":false
@@ -44,7 +44,7 @@
     {
       "id":5,
       "name":"Ronaldo strikes as United hit Newcastle for four",
-      "url":"https://www.youtube.com/watch?v=Ahnby2vUlxM",
+      "url":"https://www.youtube.com/embed/Ahnby2vUlxM",
       "author":"Em Yu",
       "views":11987092,
       "isHeadline":true
