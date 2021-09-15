@@ -56,42 +56,54 @@
       "name":"Rondalo",
       "activity":"Commented",
       "description":"Mantap bos",
-      "time":"20 minute ago"
+      "time":"20 minute ago",
+      "isHeadline":true,
+      "url":"https://cdn.stocksnap.io/img-thumbs/960w/face-mask_EEW7DRGW6Y.jpg"
     },
     {
       "id":2,
       "name":"Rondalo",
       "activity":"Like your post",
       "description":"",
-      "time":"10 minute ago"
+      "time":"10 minute ago",
+      "isHeadline":false,
+      "url":"https://cdn.stocksnap.io/img-thumbs/960w/face-mask_EEW7DRGW6Y.jpg"
     },
     {
       "id":3,
       "name":"Salah",
       "activity":"Commented",
       "description":"Gak gitu maksudnya bro",
-      "time":"20 minute ago"
+      "time":"20 minute ago",
+      "isHeadline":false,
+      "url":"https://cdn.stocksnap.io/img-thumbs/960w/business-man_0MRSBYLPNM.jpg"
     },
     {
       "id":4,
       "name":"Salah",
       "activity":"Like your post",
       "description":"",
-      "time":"20 minute ago"
+      "time":"20 minute ago",
+      "isHeadline":false,
+      "url":"https://cdn.stocksnap.io/img-thumbs/960w/business-man_0MRSBYLPNM.jpg"
     },
     {
       "id":5,
       "name":"Kokom",
       "activity":"Commented",
       "description":"Jago banget ",
-      "time":"20 minute ago"
+      "time":"20 minute ago",
+      "isHeadline":false,
+      "url":"https://cdn.stocksnap.io/img-thumbs/960w/business-man_XTVALHTBUK.jpg"
     },
     {
       "id":6,
       "name":"Andre",
       "activity":"Commented",
       "description":"Semangat bang !",
-      "time":"1 hour ago"
+      "time":"1 hour ago",
+      "isHeadline":false,
+      "url":"https://cdn.stocksnap.io/img-thumbs/960w/people-travel_XLKMFYFEW2.jpg"
     }
   ],
   "peoples":[
